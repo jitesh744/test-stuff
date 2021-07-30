@@ -1,7 +1,0 @@
-This is the first change in file 3
-
-last change before push
-
-
-Made a change again
-Made change again
